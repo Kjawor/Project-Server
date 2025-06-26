@@ -1,0 +1,12 @@
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\project.exe
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\project.dll
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\project.deps.json
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\project.runtimeconfig.json
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\project.pdb
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\v\project\project\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
